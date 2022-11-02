@@ -1,0 +1,12 @@
+{
+  "name": "javascript-tutorial",
+  "version": "1.0.0",
+  "description": "- Javascript Fundamentals - Modules - Classes - Arrow functions - Promises / Asynchronus requests - Destructuring - Concept of components & state - Spread operator - High order array functions",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
