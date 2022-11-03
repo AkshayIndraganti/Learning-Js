@@ -1,3 +1,4 @@
+
 const FetchPromise = () => {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -23,3 +24,6 @@ const OutputFetchPromise = async () => {
 }
 
 OutputFetchPromise();
+
+console.log("End");
+

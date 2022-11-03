@@ -26,3 +26,4 @@ const OutputFetchPromise = () => __awaiter(void 0, void 0, void 0, function* () 
     console.log(User);
 });
 OutputFetchPromise();
+console.log("End");
